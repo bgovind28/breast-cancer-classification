@@ -46,7 +46,7 @@ the diagnosis column.
 
 ## c. GitHub Repository Link
 
-TO BE ADDED AFTER REPOSITORY CREATION
+https://github.com/bgovind28/breast-cancer-classification
 
 ## d. Models Used
 
