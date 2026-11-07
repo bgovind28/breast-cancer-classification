@@ -88,7 +88,7 @@ performance on other populations or clinical suitability.
 
 ## e. Streamlit Application
 
-Live application link: TO BE ADDED AFTER DEPLOYMENT
+Live application link: https://govind-breast-cancer-classification.streamlit.app/
 
 Features:
 - Download a sample test CSV.
